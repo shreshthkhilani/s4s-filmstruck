@@ -16,7 +16,7 @@ date,title,location,companions,tmdbId
 3/24/2024,Woman in the Dunes,600 Park Pl,,16672
 3/26/2024,West Indes,Film Forum,,271858
 3/30/2024,As Tears Go By,Metrograph,Meg,24163
-4/3/2024,Bend It Like Beckham,"Lee and Isabel's Apartment",,455
+4/3/2024,Bend It Like Beckham,Lee and Isabel's Apartment,,455
 4/4/2024,My Heart Is That Eternal Rose,Metrograph,,78033
 4/7/2024,Monkey Man,Nitehawk,,560016
 4/10/2024,The Young Girls Turn 25,600 Park Pl,,200381
@@ -27,7 +27,7 @@ date,title,location,companions,tmdbId
 4/25/2024,Smiles of a Summer Night,600 Park Pl,,11700
 4/29/2024,Maqbool,600 Park Pl,,21265
 5/5/2024,Persona,600 Park Pl,,797
-5/6/2024,Birdcage,"Lee and Isabel's Apartment",,11000
+5/6/2024,Birdcage,Lee and Isabel's Apartment,,11000
 5/8/2024,La Chimera,BAM,,837335
 5/12/2024,Come Drink with Me,600 Park Pl,,26259
 5/18/2024,Paprika,Metrograph,,4977
@@ -62,8 +62,8 @@ date,title,location,companions,tmdbId
 10/31/2024,Murdering the Devil,Metrograph,,266429
 11/1/2024,The Love Witch,600 Park Pl,"Eli,Jack",374052
 11/3/2024,John Wick,600 Park Pl,"Isabel,Lee",245891
-11/5/2024,National Treasure,"Lee and Isabel's Apartment","Lila,Lee",2059
-11/6/2024,Babe: Pig in the City,"Lee and Isabel's Apartment","Isabel,Lee",9447
+11/5/2024,National Treasure,Lee and Isabel's Apartment,"Lila,Lee",2059
+11/6/2024,Babe: Pig in the City,Lee and Isabel's Apartment,"Isabel,Lee",9447
 11/8/2024,Light Sleeper,Metrograph,,36351
 11/9/2024,Super Fly,600 Park Pl,,21968
 11/16/2024,All We Imagine as Light,Film Forum,,927547
@@ -81,18 +81,18 @@ date,title,location,companions,tmdbId
 12/12/2024,Fire Walk With Me,600 Park Pl,Lee,1923
 12/14/2024,Cry of the Hunted,600 Park Pl,,27560
 12/17/2024,Rear Window,600 Park Pl,,567
-12/20/2024,Tokyo Godfathers,"Lee and Isabel's Apartment","Isabel,Lee",13398
+12/20/2024,Tokyo Godfathers,Lee and Isabel's Apartment,"Isabel,Lee",13398
 12/25/2024,"Paris, Texas",Metrograph,"Lee,Ted,Berna",655
 12/28/2024,Legend of the Mountain,600 Park Pl,,191531
 12/29/2024,Foreign Correspondent,600 Park Pl,,25670
 1/1/2025,Vertigo,600 Park Pl,,426
 1/3/2025,Hairspray,600 Park Pl,,11054
 1/5/2025,Alma’s Rainbow,600 Park Pl,,279753
-1/7/2025,Moonstruck,"Lee and Isabel's Apartment","Isabel,Lee",2039
+1/7/2025,Moonstruck,Lee and Isabel's Apartment,"Isabel,Lee",2039
 1/19/2025,Blue Velvet,600 Park Pl,,793
 1/22/2025,The Elephant God,600 Park Pl,,165432
 1/31/2025,Babygirl,BAM,,1097549
-2/10/2025,Romy and Michele’s High School Reunion,"Lee and Isabel's Apartment","Lila,Lee",9611
+2/10/2025,Romy and Michele’s High School Reunion,Lee and Isabel's Apartment,"Lila,Lee",9611
 2/14/2025,The Lovers,600 Park Pl,,2574
 2/15/2025,Wild at Heart,Metrograph,,483
 2/16/2025,The Bitter Stems,600 Park Pl,,185250
@@ -109,7 +109,7 @@ date,title,location,companions,tmdbId
 3/29/2025,Mickey 17,Nitehawk,,696506
 4/18/2025,Matilda,Philadelphia Airbnb,,10830
 4/21/2025,Pink Narcissus,Metrograph,,42497
-4/27/2025,Singin’ in the Rain,"Lee and Isabel's Apartment",Lee,872
+4/27/2025,Singin’ in the Rain,Lee and Isabel's Apartment,Lee,872
 5/8/2025,Taking of Pelham 123,600 Park Pl,,8333
 5/24/2025,Smithereens,Vermont,"Eli,Jack",94066
 5/25/2025,The Bourne Identity,Vermont,"Eli,Jack",2501
@@ -210,3 +210,4 @@ date,title,location,companions,tmdbId
 1/23/2026,"First Case, Second Case",Home,Varnica,287877
 1/24/2026,The Red Shoes,Home,Varnica,19542
 1/25/2026,Sunset Boulevard,Home,Varnica,599
+1/26/2026,Port of Shadows,Home,Varnica,46326

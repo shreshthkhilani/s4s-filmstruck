@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,211
-watch_year,2026,25
+watch_year,ALL_TIME,212
+watch_year,2026,26
 watch_year,2025,100
 watch_year,2024,82
 watch_year,2023,4
@@ -113,6 +113,7 @@ director,Luca Guadagnino,1
 director,Lucy Kerr,1
 director,Luis Buñuel,1
 director,Mabel Cheung Yuen-Ting,1
+director,Marcel Carné,1
 director,Masahiro Shinoda,1
 director,Masaki Kobayashi,1
 director,Med Hondo,1
@@ -148,7 +149,7 @@ director,Yorgos Lanthimos,1
 director,Yurii Illienko,1
 director,Yuval Abraham,1
 language,en,92
-language,fr,25
+language,fr,26
 language,ja,20
 language,fa,13
 language,zh,9
@@ -170,8 +171,8 @@ language,uk,1
 companion,Lee,16
 companion,Isabel,12
 companion,Yash,9
+companion,Varnica,8
 companion,Eli,7
-companion,Varnica,7
 companion,Jack,5
 companion,Kunal,4
 companion,Ted,4
@@ -197,11 +198,11 @@ companion,Meg,1
 companion,Rohin,1
 companion,Vanshita,1
 location,600 Park Pl,75
-location,24 8th Ave,46
+location,Home,47
 location,Metrograph,41
 location,BAM,11
 location,Film Forum,10
-location,285 St Johns Pl,8
+location,Lee and Isabel's Apartment,8
 location,Flight to Abu Dabhi,3
 location,Nitehawk,3
 location,Flight to NYC,2
@@ -222,5 +223,5 @@ release_decade,2020s,22
 release_decade,2000s,19
 release_decade,1940s,8
 release_decade,2010s,7
-release_decade,1930s,5
+release_decade,1930s,6
 release_decade,1920s,1
