@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,213
-watch_year,2026,27
+watch_year,ALL_TIME,214
+watch_year,2026,28
 watch_year,2025,100
 watch_year,2024,82
 watch_year,2023,4
@@ -130,6 +130,7 @@ director,Rob Reiner,1
 director,Rose Glass,1
 director,Sam Wood,1
 director,Sanjay Gadhvi,1
+director,Sara Driver,1
 director,Satyajit Ray,1
 director,Seijun Suzuki,1
 director,Shaunak Sen,1
@@ -149,7 +150,7 @@ director,William Friedkin,1
 director,Yorgos Lanthimos,1
 director,Yurii Illienko,1
 director,Yuval Abraham,1
-language,en,93
+language,en,94
 language,fr,26
 language,ja,20
 language,fa,13
@@ -171,7 +172,7 @@ language,pt,1
 language,uk,1
 companion,Lee,16
 companion,Isabel,13
-companion,Varnica,9
+companion,Varnica,10
 companion,Yash,9
 companion,Eli,7
 companion,Jack,5
@@ -199,7 +200,7 @@ companion,Meg,1
 companion,Rohin,1
 companion,Vanshita,1
 location,600 Park Pl,75
-location,Home,48
+location,Home,49
 location,Metrograph,41
 location,BAM,11
 location,Film Forum,10
@@ -215,7 +216,7 @@ location,BAM Karen,1
 location,Diane’s apartment,1
 location,Philadelphia Airbnb,1
 location,The Beverley Las Vegas,1
-release_decade,1980s,36
+release_decade,1980s,37
 release_decade,1990s,35
 release_decade,1970s,30
 release_decade,1960s,26
