@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,214
-watch_year,2026,28
+watch_year,ALL_TIME,215
+watch_year,2026,29
 watch_year,2025,100
 watch_year,2024,82
 watch_year,2023,4
@@ -31,6 +31,7 @@ director,Jean Cocteau,2
 director,Jean-Luc Godard,2
 director,John Waters,2
 director,Juraj Herz,2
+director,Marcel Carné,2
 director,Mario Bava,2
 director,Michael Powell,2
 director,Mira Nair,2
@@ -114,7 +115,6 @@ director,Luca Guadagnino,1
 director,Lucy Kerr,1
 director,Luis Buñuel,1
 director,Mabel Cheung Yuen-Ting,1
-director,Marcel Carné,1
 director,Masahiro Shinoda,1
 director,Masaki Kobayashi,1
 director,Med Hondo,1
@@ -151,7 +151,7 @@ director,Yorgos Lanthimos,1
 director,Yurii Illienko,1
 director,Yuval Abraham,1
 language,en,94
-language,fr,26
+language,fr,27
 language,ja,20
 language,fa,13
 language,zh,9
@@ -200,7 +200,7 @@ companion,Meg,1
 companion,Rohin,1
 companion,Vanshita,1
 location,600 Park Pl,75
-location,Home,49
+location,Home,50
 location,Metrograph,41
 location,BAM,11
 location,Film Forum,10
@@ -224,6 +224,6 @@ release_decade,1950s,23
 release_decade,2020s,22
 release_decade,2000s,19
 release_decade,1940s,8
+release_decade,1930s,7
 release_decade,2010s,7
-release_decade,1930s,6
 release_decade,1920s,1
