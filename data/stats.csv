@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,215
-watch_year,2026,29
+watch_year,ALL_TIME,216
+watch_year,2026,30
 watch_year,2025,100
 watch_year,2024,82
 watch_year,2023,4
@@ -22,6 +22,7 @@ director,Ingmar Bergman,3
 director,King Hu,3
 director,Barry Sonnenfeld,2
 director,Bong Joon Ho,2
+director,Carl Theodor Dreyer,2
 director,Claire Denis,2
 director,Dario Argento,2
 director,David Cronenberg,2
@@ -55,7 +56,6 @@ director,Basel Adra,1
 director,Blake Edwards,1
 director,Brian Henson,1
 director,Buster Keaton,1
-director,Carl Theodor Dreyer,1
 director,Céline Sciamma,1
 director,Chad Stahelski,1
 director,Christian-Jaque,1
@@ -154,8 +154,8 @@ language,en,94
 language,fr,27
 language,ja,20
 language,fa,13
+language,de,9
 language,zh,9
-language,de,8
 language,es,8
 language,cn,6
 language,cs,5
@@ -200,7 +200,7 @@ companion,Meg,1
 companion,Rohin,1
 companion,Vanshita,1
 location,600 Park Pl,75
-location,Home,50
+location,Home,51
 location,Metrograph,41
 location,BAM,11
 location,Film Forum,10
@@ -223,7 +223,7 @@ release_decade,1960s,26
 release_decade,1950s,23
 release_decade,2020s,22
 release_decade,2000s,19
+release_decade,1930s,8
 release_decade,1940s,8
-release_decade,1930s,7
 release_decade,2010s,7
 release_decade,1920s,1
