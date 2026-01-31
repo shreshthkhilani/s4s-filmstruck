@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,217
-watch_year,2026,31
+watch_year,ALL_TIME,218
+watch_year,2026,32
 watch_year,2025,100
 watch_year,2024,82
 watch_year,2023,4
@@ -92,6 +92,7 @@ director,Jay Roach,1
 director,Jean Renoir,1
 director,Jean-Pierre Jeunet,1
 director,Jean-Pierre Melville,1
+director,Joachim Trier,1
 director,Joan Micklin Silver,1
 director,Jon Turteltaub,1
 director,Joseph H. Lewis,1
@@ -168,11 +169,12 @@ language,ru,2
 language,bn,1
 language,da,1
 language,ml,1
+language,no,1
 language,pt,1
 language,uk,1
 companion,Lee,16
 companion,Isabel,13
-companion,Varnica,11
+companion,Varnica,12
 companion,Yash,9
 companion,Eli,7
 companion,Jack,5
@@ -202,7 +204,7 @@ companion,Vanshita,1
 location,600 Park Pl,75
 location,Home,52
 location,Metrograph,41
-location,BAM,11
+location,BAM,12
 location,Film Forum,10
 location,Lee and Isabel's Apartment,8
 location,Flight to Abu Dabhi,3
@@ -221,7 +223,7 @@ release_decade,1990s,35
 release_decade,1970s,30
 release_decade,1960s,27
 release_decade,1950s,23
-release_decade,2020s,22
+release_decade,2020s,23
 release_decade,2000s,19
 release_decade,1930s,8
 release_decade,1940s,8
