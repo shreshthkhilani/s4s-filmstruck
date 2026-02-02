@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,219
-watch_year,2026,33
+watch_year,ALL_TIME,220
+watch_year,2026,34
 watch_year,2025,100
 watch_year,2024,82
 watch_year,2023,4
@@ -42,6 +42,7 @@ director,Rainer Werner Fassbinder,2
 director,Satoshi Kon,2
 director,Shinji Sōmai,2
 director,Todd Haynes,2
+director,Tsai Ming-liang,2
 director,Věra Chytilová,2
 director,Wim Wenders,2
 director,Wong Kar-Wai,2
@@ -145,7 +146,6 @@ director,Stanley Kwan Kam-Pang,1
 director,Susan Seidelman,1
 director,Terrence Malick,1
 director,Tim Burton,1
-director,Tsai Ming-liang,1
 director,Vishal Bhardwaj,1
 director,Wei Shujun,1
 director,William Friedkin,1
@@ -156,8 +156,8 @@ language,en,95
 language,fr,27
 language,ja,21
 language,fa,13
+language,zh,10
 language,de,9
-language,zh,9
 language,es,8
 language,cn,6
 language,cs,5
@@ -203,7 +203,7 @@ companion,Meg,1
 companion,Rohin,1
 companion,Vanshita,1
 location,600 Park Pl,75
-location,Home,53
+location,Home,54
 location,Metrograph,41
 location,BAM,12
 location,Film Forum,10
@@ -220,7 +220,7 @@ location,Diane’s apartment,1
 location,Philadelphia Airbnb,1
 location,The Beverley Las Vegas,1
 release_decade,1980s,38
-release_decade,1990s,35
+release_decade,1990s,36
 release_decade,1970s,30
 release_decade,1960s,27
 release_decade,1950s,23
