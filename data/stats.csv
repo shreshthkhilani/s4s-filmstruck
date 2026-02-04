@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,220
-watch_year,2026,34
+watch_year,ALL_TIME,221
+watch_year,2026,35
 watch_year,2025,100
 watch_year,2024,82
 watch_year,2023,4
@@ -121,6 +121,7 @@ director,Mabel Cheung Yuen-Ting,1
 director,Masahiro Shinoda,1
 director,Masaki Kobayashi,1
 director,Med Hondo,1
+director,Michelangelo Antonioni,1
 director,Mike Nichols,1
 director,Mojtaba Mirtahmasb,1
 director,Norman Jewison,1
@@ -160,9 +161,9 @@ language,zh,10
 language,de,9
 language,es,8
 language,cn,6
+language,it,6
 language,cs,5
 language,hi,5
-language,it,5
 language,ar,3
 language,sv,3
 language,ko,2
@@ -203,7 +204,7 @@ companion,Meg,1
 companion,Rohin,1
 companion,Vanshita,1
 location,600 Park Pl,75
-location,Home,54
+location,Home,55
 location,Metrograph,41
 location,BAM,12
 location,Film Forum,10
@@ -222,7 +223,7 @@ location,The Beverley Las Vegas,1
 release_decade,1980s,38
 release_decade,1990s,36
 release_decade,1970s,30
-release_decade,1960s,27
+release_decade,1960s,28
 release_decade,1950s,23
 release_decade,2020s,23
 release_decade,2000s,19
