@@ -1,13 +1,13 @@
 stat,key,value
-watch_year,ALL_TIME,221
-watch_year,2026,35
+watch_year,ALL_TIME,222
+watch_year,2026,36
 watch_year,2025,100
 watch_year,2024,82
 watch_year,2023,4
 director,Jafar Panahi,8
 director,Pedro Almodóvar,7
+director,Agnès Varda,6
 director,Abbas Kiarostami,5
-director,Agnès Varda,5
 director,Alfred Hitchcock,5
 director,Mikio Naruse,5
 director,David Lynch,4
@@ -154,7 +154,7 @@ director,Yorgos Lanthimos,1
 director,Yurii Illienko,1
 director,Yuval Abraham,1
 language,en,95
-language,fr,27
+language,fr,28
 language,ja,21
 language,fa,13
 language,zh,10
@@ -204,7 +204,7 @@ companion,Meg,1
 companion,Rohin,1
 companion,Vanshita,1
 location,600 Park Pl,75
-location,Home,55
+location,Home,56
 location,Metrograph,41
 location,BAM,12
 location,Film Forum,10
@@ -223,7 +223,7 @@ location,The Beverley Las Vegas,1
 release_decade,1980s,38
 release_decade,1990s,36
 release_decade,1970s,30
-release_decade,1960s,28
+release_decade,1960s,29
 release_decade,1950s,23
 release_decade,2020s,23
 release_decade,2000s,19
