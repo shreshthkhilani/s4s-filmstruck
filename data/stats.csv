@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,222
-watch_year,2026,36
+watch_year,ALL_TIME,223
+watch_year,2026,37
 watch_year,2025,100
 watch_year,2024,82
 watch_year,2023,4
@@ -20,6 +20,7 @@ director,Francis Ford Coppola,3
 director,Gregg Araki,3
 director,Ingmar Bergman,3
 director,King Hu,3
+director,Marcel Carné,3
 director,Nobuhiko Obayashi,3
 director,Barry Sonnenfeld,2
 director,Bong Joon Ho,2
@@ -33,7 +34,6 @@ director,Jean Cocteau,2
 director,Jean-Luc Godard,2
 director,John Waters,2
 director,Juraj Herz,2
-director,Marcel Carné,2
 director,Mario Bava,2
 director,Michael Powell,2
 director,Mira Nair,2
@@ -154,7 +154,7 @@ director,Yorgos Lanthimos,1
 director,Yurii Illienko,1
 director,Yuval Abraham,1
 language,en,95
-language,fr,28
+language,fr,29
 language,ja,21
 language,fa,13
 language,zh,10
@@ -204,7 +204,7 @@ companion,Meg,1
 companion,Rohin,1
 companion,Vanshita,1
 location,600 Park Pl,75
-location,Home,56
+location,Home,57
 location,Metrograph,41
 location,BAM,12
 location,Film Forum,10
@@ -227,7 +227,7 @@ release_decade,1960s,29
 release_decade,1950s,23
 release_decade,2020s,23
 release_decade,2000s,19
+release_decade,1940s,9
 release_decade,1930s,8
-release_decade,1940s,8
 release_decade,2010s,7
 release_decade,1920s,1
