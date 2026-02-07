@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,224
-watch_year,2026,37
+watch_year,ALL_TIME,225
+watch_year,2026,38
 watch_year,2025,101
 watch_year,2024,82
 watch_year,2023,4
@@ -121,6 +121,7 @@ director,Mabel Cheung Yuen-Ting,1
 director,Masahiro Shinoda,1
 director,Masaki Kobayashi,1
 director,Med Hondo,1
+director,Michael Haneke,1
 director,Michelangelo Antonioni,1
 director,Mike Nichols,1
 director,Mojtaba Mirtahmasb,1
@@ -154,7 +155,7 @@ director,Yorgos Lanthimos,1
 director,Yurii Illienko,1
 director,Yuval Abraham,1
 language,en,95
-language,fr,30
+language,fr,31
 language,ja,21
 language,fa,13
 language,zh,10
@@ -205,7 +206,7 @@ companion,Rohin,1
 companion,Vanshita,1
 location,600 Park Pl,75
 location,Home,57
-location,Metrograph,41
+location,Metrograph,42
 location,BAM,12
 location,Film Forum,10
 location,Lee and Isabel's Apartment,8
@@ -226,7 +227,7 @@ release_decade,1960s,30
 release_decade,1970s,30
 release_decade,1950s,23
 release_decade,2020s,23
-release_decade,2000s,19
+release_decade,2000s,20
 release_decade,1940s,9
 release_decade,1930s,8
 release_decade,2010s,7
