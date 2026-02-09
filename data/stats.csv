@@ -1,11 +1,11 @@
 stat,key,value
-watch_year,ALL_TIME,225
-watch_year,2026,38
+watch_year,ALL_TIME,228
+watch_year,2026,41
 watch_year,2025,101
 watch_year,2024,82
 watch_year,2023,4
+director,Agnès Varda,8
 director,Jafar Panahi,8
-director,Agnès Varda,7
 director,Pedro Almodóvar,7
 director,Abbas Kiarostami,5
 director,Alfred Hitchcock,5
@@ -15,6 +15,7 @@ director,Robert Altman,4
 director,Werner Herzog,4
 director,Akira Kurosawa,3
 director,Billy Wilder,3
+director,Claire Denis,3
 director,Éric Rohmer,3
 director,Francis Ford Coppola,3
 director,Gregg Araki,3
@@ -25,7 +26,6 @@ director,Nobuhiko Obayashi,3
 director,Barry Sonnenfeld,2
 director,Bong Joon Ho,2
 director,Carl Theodor Dreyer,2
-director,Claire Denis,2
 director,Dario Argento,2
 director,David Cronenberg,2
 director,Emeric Pressburger,2
@@ -94,6 +94,7 @@ director,Jay Roach,1
 director,Jean Renoir,1
 director,Jean-Pierre Jeunet,1
 director,Jean-Pierre Melville,1
+director,Jia Zhangke,1
 director,Joachim Trier,1
 director,Joan Micklin Silver,1
 director,Jon Turteltaub,1
@@ -155,10 +156,10 @@ director,Yorgos Lanthimos,1
 director,Yurii Illienko,1
 director,Yuval Abraham,1
 language,en,95
-language,fr,31
+language,fr,33
 language,ja,21
 language,fa,13
-language,zh,10
+language,zh,11
 language,de,9
 language,es,8
 language,cn,6
@@ -205,7 +206,7 @@ companion,Meg,1
 companion,Rohin,1
 companion,Vanshita,1
 location,600 Park Pl,75
-location,Home,57
+location,Home,60
 location,Metrograph,42
 location,BAM,12
 location,Film Forum,10
@@ -222,12 +223,12 @@ location,Diane’s apartment,1
 location,Philadelphia Airbnb,1
 location,The Beverley Las Vegas,1
 release_decade,1980s,38
-release_decade,1990s,36
+release_decade,1990s,37
 release_decade,1960s,30
 release_decade,1970s,30
 release_decade,1950s,23
 release_decade,2020s,23
-release_decade,2000s,20
+release_decade,2000s,22
 release_decade,1940s,9
 release_decade,1930s,8
 release_decade,2010s,7
