@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,228
-watch_year,2026,41
+watch_year,ALL_TIME,229
+watch_year,2026,42
 watch_year,2025,101
 watch_year,2024,82
 watch_year,2023,4
@@ -30,6 +30,7 @@ director,Dario Argento,2
 director,David Cronenberg,2
 director,Emeric Pressburger,2
 director,Fritz Lang,2
+director,Jacques Demy,2
 director,Jean Cocteau,2
 director,Jean-Luc Godard,2
 director,John Waters,2
@@ -87,7 +88,6 @@ director,Hong Sang-soo,1
 director,Hou Hsiao-hsien,1
 director,Ishirō Honda,1
 director,Jackie Chan,1
-director,Jacques Demy,1
 director,Jacques Tati,1
 director,James Bidgood,1
 director,Jay Roach,1
@@ -156,7 +156,7 @@ director,Yorgos Lanthimos,1
 director,Yurii Illienko,1
 director,Yuval Abraham,1
 language,en,95
-language,fr,33
+language,fr,34
 language,ja,21
 language,fa,13
 language,zh,11
@@ -206,7 +206,7 @@ companion,Meg,1
 companion,Rohin,1
 companion,Vanshita,1
 location,600 Park Pl,75
-location,Home,60
+location,Home,61
 location,Metrograph,42
 location,BAM,12
 location,Film Forum,10
@@ -224,7 +224,7 @@ location,Philadelphia Airbnb,1
 location,The Beverley Las Vegas,1
 release_decade,1980s,38
 release_decade,1990s,37
-release_decade,1960s,30
+release_decade,1960s,31
 release_decade,1970s,30
 release_decade,1950s,23
 release_decade,2020s,23
