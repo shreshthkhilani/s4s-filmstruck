@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,229
-watch_year,2026,42
+watch_year,ALL_TIME,230
+watch_year,2026,43
 watch_year,2025,101
 watch_year,2024,82
 watch_year,2023,4
@@ -45,6 +45,7 @@ director,Shinji Sōmai,2
 director,Todd Haynes,2
 director,Tsai Ming-liang,2
 director,Věra Chytilová,2
+director,William Friedkin,2
 director,Wim Wenders,2
 director,Wong Kar-Wai,2
 director,Youssef Chahine,2
@@ -151,11 +152,10 @@ director,Terrence Malick,1
 director,Tim Burton,1
 director,Vishal Bhardwaj,1
 director,Wei Shujun,1
-director,William Friedkin,1
 director,Yorgos Lanthimos,1
 director,Yurii Illienko,1
 director,Yuval Abraham,1
-language,en,95
+language,en,96
 language,fr,34
 language,ja,21
 language,fa,13
@@ -206,7 +206,7 @@ companion,Meg,1
 companion,Rohin,1
 companion,Vanshita,1
 location,600 Park Pl,75
-location,Home,61
+location,Home,62
 location,Metrograph,42
 location,BAM,12
 location,Film Forum,10
@@ -222,7 +222,7 @@ location,BAM Karen,1
 location,Diane’s apartment,1
 location,Philadelphia Airbnb,1
 location,The Beverley Las Vegas,1
-release_decade,1980s,38
+release_decade,1980s,39
 release_decade,1990s,37
 release_decade,1960s,31
 release_decade,1970s,30
