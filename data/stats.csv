@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,231
-watch_year,2026,44
+watch_year,ALL_TIME,232
+watch_year,2026,45
 watch_year,2025,101
 watch_year,2024,82
 watch_year,2023,4
@@ -123,6 +123,7 @@ director,Mabel Cheung Yuen-Ting,1
 director,Masahiro Shinoda,1
 director,Masaki Kobayashi,1
 director,Med Hondo,1
+director,Michael Almereyda,1
 director,Michael Haneke,1
 director,Michelangelo Antonioni,1
 director,Mike Nichols,1
@@ -155,7 +156,7 @@ director,Wei Shujun,1
 director,Yorgos Lanthimos,1
 director,Yurii Illienko,1
 director,Yuval Abraham,1
-language,en,96
+language,en,97
 language,fr,35
 language,ja,21
 language,fa,13
@@ -185,12 +186,12 @@ companion,Jack,6
 companion,Kunal,4
 companion,Ted,4
 companion,Berna,3
+companion,Gabriel,3
+companion,Gavi,3
 companion,Lila,3
 companion,Akhil,2
 companion,Clio,2
 companion,Diane,2
-companion,Gabriel,2
-companion,Gavi,2
 companion,Geneva,2
 companion,Hannah,2
 companion,Sanjay,2
@@ -208,7 +209,7 @@ companion,Vanshita,1
 location,600 Park Pl,75
 location,Home,63
 location,Metrograph,42
-location,BAM,12
+location,BAM,13
 location,Film Forum,10
 location,Lee and Isabel's Apartment,8
 location,Flight to Abu Dabhi,3
@@ -223,7 +224,7 @@ location,Diane’s apartment,1
 location,Philadelphia Airbnb,1
 location,The Beverley Las Vegas,1
 release_decade,1980s,40
-release_decade,1990s,37
+release_decade,1990s,38
 release_decade,1960s,31
 release_decade,1970s,30
 release_decade,1950s,23
