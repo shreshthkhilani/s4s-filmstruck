@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,232
-watch_year,2026,45
+watch_year,ALL_TIME,234
+watch_year,2026,47
 watch_year,2025,101
 watch_year,2024,82
 watch_year,2023,4
@@ -134,8 +134,10 @@ director,Otto Preminger,1
 director,Patrick Tam Kar-Ming,1
 director,Payal Kapadia,1
 director,Rachel Szor,1
+director,Rick Sloane,1
 director,Rob Reiner,1
 director,Rose Glass,1
+director,Rupert Julian,1
 director,Sam Wood,1
 director,Sanjay Gadhvi,1
 director,Sara Driver,1
@@ -156,7 +158,7 @@ director,Wei Shujun,1
 director,Yorgos Lanthimos,1
 director,Yurii Illienko,1
 director,Yuval Abraham,1
-language,en,97
+language,en,99
 language,fr,35
 language,ja,21
 language,fa,13
@@ -207,9 +209,9 @@ companion,Meg,1
 companion,Rohin,1
 companion,Vanshita,1
 location,600 Park Pl,75
-location,Home,63
+location,Home,64
 location,Metrograph,42
-location,BAM,13
+location,BAM,14
 location,Film Forum,10
 location,Lee and Isabel's Apartment,8
 location,Flight to Abu Dabhi,3
@@ -223,7 +225,7 @@ location,BAM Karen,1
 location,Diane’s apartment,1
 location,Philadelphia Airbnb,1
 location,The Beverley Las Vegas,1
-release_decade,1980s,40
+release_decade,1980s,41
 release_decade,1990s,38
 release_decade,1960s,31
 release_decade,1970s,30
@@ -233,4 +235,4 @@ release_decade,2000s,22
 release_decade,1940s,9
 release_decade,1930s,8
 release_decade,2010s,7
-release_decade,1920s,1
+release_decade,1920s,2
