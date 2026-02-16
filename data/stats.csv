@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,236
-watch_year,2026,49
+watch_year,ALL_TIME,237
+watch_year,2026,50
 watch_year,2025,101
 watch_year,2024,82
 watch_year,2023,4
@@ -41,6 +41,7 @@ director,Mira Nair,2
 director,Paul Schrader,2
 director,Rainer Werner Fassbinder,2
 director,Satoshi Kon,2
+director,Satyajit Ray,2
 director,Shinji Sōmai,2
 director,Todd Haynes,2
 director,Tsai Ming-liang,2
@@ -142,7 +143,6 @@ director,Sam Wood,1
 director,Sanjay Gadhvi,1
 director,Sara Driver,1
 director,Sarah Jacobson,1
-director,Satyajit Ray,1
 director,Seijun Suzuki,1
 director,Shaunak Sen,1
 director,Shekhar Kapur,1
@@ -172,9 +172,9 @@ language,cs,5
 language,hi,5
 language,ar,3
 language,sv,3
+language,bn,2
 language,ko,2
 language,ru,2
-language,bn,1
 language,da,1
 language,ml,1
 language,no,1
@@ -210,7 +210,7 @@ companion,Meg,1
 companion,Rohin,1
 companion,Vanshita,1
 location,600 Park Pl,75
-location,Home,65
+location,Home,66
 location,Metrograph,42
 location,BAM,15
 location,Film Forum,10
@@ -230,7 +230,7 @@ release_decade,1980s,41
 release_decade,1990s,39
 release_decade,1960s,31
 release_decade,1970s,30
-release_decade,1950s,23
+release_decade,1950s,24
 release_decade,2020s,23
 release_decade,2000s,22
 release_decade,1940s,10
