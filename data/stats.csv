@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,238
-watch_year,2026,51
+watch_year,ALL_TIME,241
+watch_year,2026,54
 watch_year,2025,101
 watch_year,2024,82
 watch_year,2023,4
@@ -57,6 +57,7 @@ director,Anna Biller,1
 director,Annie Baker,1
 director,Ayoka Chenzira,1
 director,Basel Adra,1
+director,Benjamin Christensen,1
 director,Bette Gordon,1
 director,Blake Edwards,1
 director,Brian Henson,1
@@ -80,6 +81,7 @@ director,Friz Freleng,1
 director,Gene Kelly,1
 director,George Miller,1
 director,Georges Franju,1
+director,Giuseppe De Santis,1
 director,Gordon Parks Jr.,1
 director,Gurinder Chadha,1
 director,Gus Van Sant,1
@@ -97,6 +99,7 @@ director,Jean Renoir,1
 director,Jean-Pierre Jeunet,1
 director,Jean-Pierre Melville,1
 director,Jia Zhangke,1
+director,Jim Jarmusch,1
 director,Joachim Trier,1
 director,Joan Micklin Silver,1
 director,Jon Turteltaub,1
@@ -160,19 +163,19 @@ director,Wei Shujun,1
 director,Yorgos Lanthimos,1
 director,Yurii Illienko,1
 director,Yuval Abraham,1
-language,en,100
+language,en,101
 language,fr,37
 language,ja,21
 language,fa,13
 language,zh,11
 language,de,9
 language,es,8
+language,it,7
 language,cn,6
-language,it,6
 language,cs,5
 language,hi,5
+language,sv,4
 language,ar,3
-language,sv,3
 language,bn,2
 language,ko,2
 language,ru,2
@@ -211,10 +214,10 @@ companion,Meg,1
 companion,Rohin,1
 companion,Vanshita,1
 location,600 Park Pl,75
-location,Home,67
+location,Home,69
 location,Metrograph,42
 location,BAM,15
-location,Film Forum,10
+location,Film Forum,11
 location,Lee and Isabel's Apartment,8
 location,Flight to Abu Dabhi,3
 location,Hotel in Las Vegas,3
@@ -232,9 +235,9 @@ release_decade,1990s,39
 release_decade,1960s,31
 release_decade,1970s,31
 release_decade,1950s,24
+release_decade,2000s,23
 release_decade,2020s,23
-release_decade,2000s,22
-release_decade,1940s,10
+release_decade,1940s,11
 release_decade,1930s,8
 release_decade,2010s,7
-release_decade,1920s,2
+release_decade,1920s,3

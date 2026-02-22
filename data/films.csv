@@ -31,6 +31,7 @@ tmdbId,title,director,releaseYear,language,posterPath
 816,Austin Powers: International Man of Mystery,Jay Roach,1997,en,/5uD4dxNX8JKFjWKYMHyOsqhi5pN.jpg
 832,M,Fritz Lang,1931,de,/bTdZk3q2DWpBRnLiaaItKFWOVhI.jpg
 872,Singin' in the Rain,"Stanley Donen,Gene Kelly",1952,en,/w03EiJVHP8Un77boQeE7hg9DVdU.jpg
+883,Coffee and Cigarettes,Jim Jarmusch,2004,en,/pfG02QCsutx3PIxFS8UY4iM9AsS.jpg
 964,The Phantom of the Opera,Rupert Julian,1925,en,/iIBlxPcZUVlPysVihwLxf977sKL.jpg
 992,Sherlock Jr.,Buster Keaton,1924,en,/1G9r3rqtbFAQuyWKOZm4Y5J5s7Q.jpg
 1051,The French Connection,William Friedkin,1971,en,/5XSGvIKl2yPvOkieFjc3rzLw7x0.jpg
@@ -124,6 +125,7 @@ tmdbId,title,director,releaseYear,language,posterPath
 30017,Close-Up,Abbas Kiarostami,1990,fa,/m9HG2N9ZKCmNN9qOHJTNyy18wn3.jpg
 30020,Taste of Cherry,Abbas Kiarostami,1997,fa,/vgPwjgbSdbYWrS1ty8TIZtmi6Tn.jpg
 30959,Kwaidan,Masaki Kobayashi,1965,ja,/vmYhFcA2YC15hoL44hQziba75Ij.jpg
+31058,Bitter Rice,Giuseppe De Santis,1949,it,/9vvbZgbkfE7urqQXRNiONmvYTtF.jpg
 31417,Eyes Without a Face,Georges Franju,1960,fr,/8y7Z9Gvcq52uOlJlUWyn2epGGRd.jpg
 31522,A Woman Is a Woman,Jean-Luc Godard,1961,fr,/xrZu21hriGJQY3qY8nifh2smVHu.jpg
 31767,The Devils,Ken Russell,1971,en,/y1k7eiOFc6fzm8XeTa1kNGx6JIs.jpg
@@ -166,6 +168,7 @@ tmdbId,title,director,releaseYear,language,posterPath
 54464,Fiancés on the Bridge,Agnès Varda,1962,fr,/hxz3xHtDoV5K4UJA5x8HNnSTtN0.jpg
 54898,The Green Ray,Éric Rohmer,1986,fr,/1E3pliSC7lXWw6zJhMvG6ba0UNX.jpg
 56616,"Goodbye, Dragon Inn",Tsai Ming-liang,2003,zh,/js1uTY2FuKspVRQWLudFkEteFI5.jpg
+57283,Häxan,Benjamin Christensen,1922,sv,/As8MXPHo1zJHyiQV4iWr9uk7tDg.jpg
 59143,Mikey and Nicky,Elaine May,1976,en,/fnHC1OJ1EbdOX97nmXVYrXFgiQT.jpg
 64015,An Autumn's Tale,Mabel Cheung Yuen-Ting,1987,cn,/4q7CAw4lC5T12u9d2Zn9t7MuMww.jpg
 70202,Patty Hearst,Paul Schrader,1988,en,/tKXJOVLOVG7lO2enlB89n9tkv7T.jpg
