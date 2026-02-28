@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,243
-watch_year,2026,56
+watch_year,ALL_TIME,244
+watch_year,2026,57
 watch_year,2025,101
 watch_year,2024,82
 watch_year,2023,4
@@ -25,6 +25,7 @@ director,Jean Cocteau,3
 director,King Hu,3
 director,Marcel Carné,3
 director,Nobuhiko Obayashi,3
+director,Satyajit Ray,3
 director,Tsai Ming-liang,3
 director,Barry Sonnenfeld,2
 director,Bong Joon Ho,2
@@ -42,7 +43,6 @@ director,Mira Nair,2
 director,Paul Schrader,2
 director,Rainer Werner Fassbinder,2
 director,Satoshi Kon,2
-director,Satyajit Ray,2
 director,Shinji Sōmai,2
 director,Todd Haynes,2
 director,Věra Chytilová,2
@@ -177,7 +177,7 @@ language,cs,5
 language,hi,5
 language,sv,4
 language,ar,3
-language,bn,2
+language,bn,3
 language,ko,2
 language,ru,2
 language,da,1
@@ -215,7 +215,7 @@ companion,Meg,1
 companion,Rohin,1
 companion,Vanshita,1
 location,600 Park Pl,75
-location,Home,71
+location,Home,72
 location,Metrograph,42
 location,BAM,15
 location,Film Forum,11
@@ -235,7 +235,7 @@ release_decade,1980s,41
 release_decade,1990s,40
 release_decade,1970s,32
 release_decade,1960s,31
-release_decade,1950s,24
+release_decade,1950s,25
 release_decade,2000s,23
 release_decade,2020s,23
 release_decade,1940s,11
