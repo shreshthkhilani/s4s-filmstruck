@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,241
-watch_year,2026,54
+watch_year,ALL_TIME,243
+watch_year,2026,56
 watch_year,2025,101
 watch_year,2024,82
 watch_year,2023,4
@@ -25,6 +25,7 @@ director,Jean Cocteau,3
 director,King Hu,3
 director,Marcel Carné,3
 director,Nobuhiko Obayashi,3
+director,Tsai Ming-liang,3
 director,Barry Sonnenfeld,2
 director,Bong Joon Ho,2
 director,Carl Theodor Dreyer,2
@@ -44,7 +45,6 @@ director,Satoshi Kon,2
 director,Satyajit Ray,2
 director,Shinji Sōmai,2
 director,Todd Haynes,2
-director,Tsai Ming-liang,2
 director,Věra Chytilová,2
 director,William Friedkin,2
 director,Wim Wenders,2
@@ -59,6 +59,7 @@ director,Ayoka Chenzira,1
 director,Basel Adra,1
 director,Benjamin Christensen,1
 director,Bette Gordon,1
+director,Bill Gunn,1
 director,Blake Edwards,1
 director,Brian Henson,1
 director,Buster Keaton,1
@@ -163,11 +164,11 @@ director,Wei Shujun,1
 director,Yorgos Lanthimos,1
 director,Yurii Illienko,1
 director,Yuval Abraham,1
-language,en,101
+language,en,102
 language,fr,37
 language,ja,21
 language,fa,13
-language,zh,11
+language,zh,12
 language,de,9
 language,es,8
 language,it,7
@@ -214,7 +215,7 @@ companion,Meg,1
 companion,Rohin,1
 companion,Vanshita,1
 location,600 Park Pl,75
-location,Home,69
+location,Home,71
 location,Metrograph,42
 location,BAM,15
 location,Film Forum,11
@@ -231,9 +232,9 @@ location,Diane’s apartment,1
 location,Philadelphia Airbnb,1
 location,The Beverley Las Vegas,1
 release_decade,1980s,41
-release_decade,1990s,39
+release_decade,1990s,40
+release_decade,1970s,32
 release_decade,1960s,31
-release_decade,1970s,31
 release_decade,1950s,24
 release_decade,2000s,23
 release_decade,2020s,23
