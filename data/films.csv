@@ -15,6 +15,7 @@ tmdbId,title,director,releaseYear,language,posterPath
 468,My Own Private Idaho,Gus Van Sant,1991,en,/p9TF90Pb5yg2MNb2UztzyXktMm4.jpg
 480,Monsoon Wedding,Mira Nair,2001,hi,/vCwkv7tYFem0tQ9Duoq2MX7T7Zd.jpg
 483,Wild at Heart,David Lynch,1990,en,/uLUFI5sJIfWrBUWB2Y1dEuyvvVy.jpg
+499,Cléo from 5 to 7,Agnès Varda,1962,fr,/oelBStY4xpguaplRv15P3Za7Xsr.jpg
 521,Dial M for Murder,Alfred Hitchcock,1954,en,/4KKiFDvtEusJzqzlwHp7iMceXKS.jpg
 567,Rear Window,Alfred Hitchcock,1954,en,/ILVF0eJxHMddjxeQhswFtpMtqx.jpg
 592,The Conversation,Francis Ford Coppola,1974,en,/dHqVBwcv1SGymOpUueRoKzcmdes.jpg
@@ -23,6 +24,7 @@ tmdbId,title,director,releaseYear,language,posterPath
 648,Beauty and the Beast,Jean Cocteau,1946,fr,/p5PkVvOwVBW2gzFmLXzEFcrbsdj.jpg
 649,Belle de Jour,Luis Buñuel,1967,fr,/iUAFECovwPA0cVV9bo4uNGLJSGL.jpg
 651,M*A*S*H,Robert Altman,1970,en,/on8Q9LhtHYNhmITjUMpgOUkIG8o.jpg
+653,Nosferatu,F. W. Murnau,1922,de,/zx24O7VAs6NbJhiIrUhWysAiHS0.jpg
 655,"Paris, Texas",Wim Wenders,1984,en,/sP27Qm4THyRZyHjHYMfIDtJP6YE.jpg
 778,Monsieur Hulot's Holiday,Jacques Tati,1953,fr,/r4F4tsU0Ajeh9ZYUkWOJSYmioj7.jpg
 779,Vampyr,Carl Theodor Dreyer,1932,de,/m7BKgeW06cgW5512wukfGhLsWGL.jpg
@@ -30,6 +32,7 @@ tmdbId,title,director,releaseYear,language,posterPath
 797,Persona,Ingmar Bergman,1966,sv,/v2KsLNChpT6vLf0YFhkJmAtGkNq.jpg
 816,Austin Powers: International Man of Mystery,Jay Roach,1997,en,/5uD4dxNX8JKFjWKYMHyOsqhi5pN.jpg
 832,M,Fritz Lang,1931,de,/bTdZk3q2DWpBRnLiaaItKFWOVhI.jpg
+837,Videodrome,David Cronenberg,1983,en,/dBqp1SxlqnJEHYDM9sNelXoQsO1.jpg
 872,Singin' in the Rain,"Stanley Donen,Gene Kelly",1952,en,/w03EiJVHP8Un77boQeE7hg9DVdU.jpg
 883,Coffee and Cigarettes,Jim Jarmusch,2004,en,/pfG02QCsutx3PIxFS8UY4iM9AsS.jpg
 897,Aparajito,Satyajit Ray,1956,bn,/f94STIuH4S7tqs7nKFbT9SJojqi.jpg

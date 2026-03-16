@@ -1,10 +1,10 @@
 stat,key,value
-watch_year,ALL_TIME,245
-watch_year,2026,58
+watch_year,ALL_TIME,248
+watch_year,2026,61
 watch_year,2025,101
 watch_year,2024,82
 watch_year,2023,4
-director,Agnès Varda,8
+director,Agnès Varda,9
 director,Jafar Panahi,8
 director,Pedro Almodóvar,7
 director,Abbas Kiarostami,5
@@ -17,6 +17,7 @@ director,Werner Herzog,4
 director,Akira Kurosawa,3
 director,Billy Wilder,3
 director,Claire Denis,3
+director,David Cronenberg,3
 director,Éric Rohmer,3
 director,Francis Ford Coppola,3
 director,Gregg Araki,3
@@ -31,7 +32,6 @@ director,Barry Sonnenfeld,2
 director,Bong Joon Ho,2
 director,Carl Theodor Dreyer,2
 director,Dario Argento,2
-director,David Cronenberg,2
 director,Emeric Pressburger,2
 director,Fritz Lang,2
 director,Jean-Luc Godard,2
@@ -74,6 +74,7 @@ director,Doug Liman,1
 director,Edward Yang,1
 director,Elaine May,1
 director,Ester Krumbachová,1
+director,F. W. Murnau,1
 director,Federico Fellini,1
 director,Fernando Ayala,1
 director,Frank Capra,1
@@ -164,12 +165,12 @@ director,Wei Shujun,1
 director,Yorgos Lanthimos,1
 director,Yurii Illienko,1
 director,Yuval Abraham,1
-language,en,102
-language,fr,37
+language,en,103
+language,fr,38
 language,ja,21
 language,fa,13
 language,zh,12
-language,de,9
+language,de,10
 language,es,8
 language,it,7
 language,cn,6
@@ -215,10 +216,10 @@ companion,Meg,1
 companion,Rohin,1
 companion,Vanshita,1
 location,600 Park Pl,75
-location,Home,72
+location,Home,74
 location,Metrograph,42
 location,BAM,15
-location,Film Forum,12
+location,Film Forum,13
 location,Lee and Isabel's Apartment,8
 location,Flight to Abu Dabhi,3
 location,Hotel in Las Vegas,3
@@ -231,14 +232,14 @@ location,BAM Karen,1
 location,Diane’s apartment,1
 location,Philadelphia Airbnb,1
 location,The Beverley Las Vegas,1
-release_decade,1980s,41
+release_decade,1980s,42
 release_decade,1990s,40
 release_decade,1970s,33
-release_decade,1960s,31
+release_decade,1960s,32
 release_decade,1950s,25
 release_decade,2000s,23
 release_decade,2020s,23
 release_decade,1940s,11
 release_decade,1930s,8
 release_decade,2010s,7
-release_decade,1920s,3
+release_decade,1920s,4
