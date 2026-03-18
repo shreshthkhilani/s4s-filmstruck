@@ -1,18 +1,18 @@
 stat,key,value
-watch_year,ALL_TIME,248
-watch_year,2026,61
+watch_year,ALL_TIME,250
+watch_year,2026,63
 watch_year,2025,101
 watch_year,2024,82
 watch_year,2023,4
 director,Agnès Varda,9
 director,Jafar Panahi,8
 director,Pedro Almodóvar,7
+director,Satyajit Ray,6
 director,Abbas Kiarostami,5
 director,Alfred Hitchcock,5
 director,Mikio Naruse,5
 director,David Lynch,4
 director,Robert Altman,4
-director,Satyajit Ray,4
 director,Werner Herzog,4
 director,Akira Kurosawa,3
 director,Billy Wilder,3
@@ -173,10 +173,10 @@ language,zh,12
 language,de,10
 language,es,8
 language,it,7
+language,bn,6
 language,cn,6
 language,cs,5
 language,hi,5
-language,bn,4
 language,sv,4
 language,ar,3
 language,ko,2
@@ -215,8 +215,8 @@ companion,Jocelyn,1
 companion,Meg,1
 companion,Rohin,1
 companion,Vanshita,1
+location,Home,76
 location,600 Park Pl,75
-location,Home,74
 location,Metrograph,42
 location,BAM,15
 location,Film Forum,13
@@ -234,8 +234,8 @@ location,Philadelphia Airbnb,1
 location,The Beverley Las Vegas,1
 release_decade,1980s,42
 release_decade,1990s,40
+release_decade,1960s,34
 release_decade,1970s,33
-release_decade,1960s,32
 release_decade,1950s,25
 release_decade,2000s,23
 release_decade,2020s,23
