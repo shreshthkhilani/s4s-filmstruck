@@ -1,23 +1,23 @@
 stat,key,value
-watch_year,ALL_TIME,250
-watch_year,2026,63
+watch_year,ALL_TIME,262
+watch_year,2026,75
 watch_year,2025,101
 watch_year,2024,82
 watch_year,2023,4
 director,Agnès Varda,9
 director,Jafar Panahi,8
 director,Pedro Almodóvar,7
-director,Satyajit Ray,6
+director,Satyajit Ray,7
 director,Abbas Kiarostami,5
 director,Alfred Hitchcock,5
 director,Mikio Naruse,5
+director,Akira Kurosawa,4
+director,David Cronenberg,4
 director,David Lynch,4
 director,Robert Altman,4
 director,Werner Herzog,4
-director,Akira Kurosawa,3
 director,Billy Wilder,3
 director,Claire Denis,3
-director,David Cronenberg,3
 director,Éric Rohmer,3
 director,Francis Ford Coppola,3
 director,Gregg Araki,3
@@ -34,11 +34,14 @@ director,Carl Theodor Dreyer,2
 director,Dario Argento,2
 director,Emeric Pressburger,2
 director,Fritz Lang,2
+director,Jean Renoir,2
 director,Jean-Luc Godard,2
 director,John Waters,2
 director,Juraj Herz,2
 director,Mario Bava,2
+director,Masahiro Shinoda,2
 director,Michael Powell,2
+director,Michelangelo Antonioni,2
 director,Mira Nair,2
 director,Paul Schrader,2
 director,Rainer Werner Fassbinder,2
@@ -50,6 +53,7 @@ director,William Friedkin,2
 director,Wim Wenders,2
 director,Wong Kar-Wai,2
 director,Youssef Chahine,2
+director,Alan J. Pakula,1
 director,Alice Rohrwacher,1
 director,Andrei Tarkovsky,1
 director,Ang Lee,1
@@ -65,6 +69,7 @@ director,Brian Henson,1
 director,Buster Keaton,1
 director,Céline Sciamma,1
 director,Chad Stahelski,1
+director,Charles Laughton,1
 director,Christian-Jaque,1
 director,Danny DeVito,1
 director,David Mirkin,1
@@ -92,19 +97,21 @@ director,Hamdan Ballal,1
 director,Hiroshi Teshigahara,1
 director,Hong Sang-soo,1
 director,Hou Hsiao-hsien,1
+director,Ícaro Martins,1
 director,Ishirō Honda,1
 director,Jackie Chan,1
 director,Jacques Tati,1
 director,James Bidgood,1
 director,Jay Roach,1
-director,Jean Renoir,1
 director,Jean-Pierre Jeunet,1
 director,Jean-Pierre Melville,1
 director,Jia Zhangke,1
 director,Jim Jarmusch,1
 director,Joachim Trier,1
 director,Joan Micklin Silver,1
+director,John Carpenter,1
 director,Jon Turteltaub,1
+director,José Antônio Garcia,1
 director,Joseph H. Lewis,1
 director,Joseph L. Mankiewicz,1
 director,Joseph Sargent,1
@@ -127,14 +134,13 @@ director,Lucy Kerr,1
 director,Luis Buñuel,1
 director,Mabel Cheung Yuen-Ting,1
 director,Marguerite Duras,1
-director,Masahiro Shinoda,1
 director,Masaki Kobayashi,1
 director,Med Hondo,1
 director,Michael Almereyda,1
 director,Michael Haneke,1
-director,Michelangelo Antonioni,1
 director,Mike Nichols,1
 director,Mojtaba Mirtahmasb,1
+director,Ngozi Onwurah,1
 director,Norman Jewison,1
 director,Orson Welles,1
 director,Otto Preminger,1
@@ -142,6 +148,7 @@ director,Patrick Tam Kar-Ming,1
 director,Payal Kapadia,1
 director,Rachel Szor,1
 director,Rick Sloane,1
+director,Rob Cohen,1
 director,Rob Reiner,1
 director,Rose Glass,1
 director,Rupert Julian,1
@@ -165,40 +172,42 @@ director,Wei Shujun,1
 director,Yorgos Lanthimos,1
 director,Yurii Illienko,1
 director,Yuval Abraham,1
-language,en,103
-language,fr,38
-language,ja,21
+language,en,109
+language,fr,39
+language,ja,23
 language,fa,13
 language,zh,12
 language,de,10
 language,es,8
-language,it,7
-language,bn,6
+language,it,8
+language,bn,7
 language,cn,6
 language,cs,5
 language,hi,5
 language,sv,4
 language,ar,3
 language,ko,2
+language,pt,2
 language,ru,2
 language,da,1
 language,ml,1
 language,no,1
-language,pt,1
 language,uk,1
-companion,Lee,16
-companion,Isabel,13
-companion,Varnica,12
+companion,Lee,17
+companion,Isabel,14
+companion,Varnica,13
 companion,Yash,10
-companion,Eli,8
+companion,Eli,9
 companion,Jack,6
+companion,Berna,5
+companion,Ted,5
+companion,Javisth,4
 companion,Kunal,4
-companion,Ted,4
-companion,Berna,3
 companion,Gabriel,3
 companion,Gavi,3
 companion,Lila,3
 companion,Akhil,2
+companion,Becca,2
 companion,Clio,2
 companion,Diane,2
 companion,Geneva,2
@@ -209,17 +218,16 @@ companion,Tanya,2
 companion,Warren,2
 companion,Aditya,1
 companion,August,1
-companion,Becca,1
 companion,Javishth,1
 companion,Jocelyn,1
 companion,Meg,1
 companion,Rohin,1
 companion,Vanshita,1
-location,Home,76
+location,Home,80
 location,600 Park Pl,75
-location,Metrograph,42
-location,BAM,15
-location,Film Forum,13
+location,Metrograph,43
+location,BAM,19
+location,Film Forum,14
 location,Lee and Isabel's Apartment,8
 location,Flight to Abu Dabhi,3
 location,Hotel in Las Vegas,3
@@ -230,16 +238,18 @@ location,Kunal’s apartment,2
 location,Vermont,2
 location,BAM Karen,1
 location,Diane’s apartment,1
+location,Flight to London,1
 location,Philadelphia Airbnb,1
+location,Prince Charles Cinema,1
 location,The Beverley Las Vegas,1
-release_decade,1980s,42
-release_decade,1990s,40
-release_decade,1960s,34
-release_decade,1970s,33
-release_decade,1950s,25
-release_decade,2000s,23
+release_decade,1980s,44
+release_decade,1990s,42
+release_decade,1960s,36
+release_decade,1970s,36
+release_decade,1950s,26
+release_decade,2000s,24
 release_decade,2020s,23
 release_decade,1940s,11
-release_decade,1930s,8
+release_decade,1930s,9
 release_decade,2010s,7
 release_decade,1920s,4
