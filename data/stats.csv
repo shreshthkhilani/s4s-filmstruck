@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,262
-watch_year,2026,75
+watch_year,ALL_TIME,263
+watch_year,2026,76
 watch_year,2025,101
 watch_year,2024,82
 watch_year,2023,4
@@ -8,8 +8,8 @@ director,Agnès Varda,9
 director,Jafar Panahi,8
 director,Pedro Almodóvar,7
 director,Satyajit Ray,7
+director,Alfred Hitchcock,6
 director,Abbas Kiarostami,5
-director,Alfred Hitchcock,5
 director,Mikio Naruse,5
 director,Akira Kurosawa,4
 director,David Cronenberg,4
@@ -172,7 +172,7 @@ director,Wei Shujun,1
 director,Yorgos Lanthimos,1
 director,Yurii Illienko,1
 director,Yuval Abraham,1
-language,en,109
+language,en,110
 language,fr,39
 language,ja,23
 language,fa,13
@@ -196,9 +196,9 @@ language,uk,1
 companion,Lee,17
 companion,Isabel,14
 companion,Varnica,13
+companion,Eli,10
 companion,Yash,10
-companion,Eli,9
-companion,Jack,6
+companion,Jack,7
 companion,Berna,5
 companion,Javishth,5
 companion,Ted,5
@@ -224,7 +224,7 @@ companion,Rohin,1
 companion,Vanshita,1
 location,Home,80
 location,600 Park Pl,75
-location,Metrograph,43
+location,Metrograph,44
 location,BAM,19
 location,Film Forum,14
 location,Lee and Isabel's Apartment,8
@@ -248,7 +248,7 @@ release_decade,1970s,36
 release_decade,1950s,26
 release_decade,2000s,24
 release_decade,2020s,23
-release_decade,1940s,11
+release_decade,1940s,12
 release_decade,1930s,9
 release_decade,2010s,7
 release_decade,1920s,4
