@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,263
-watch_year,2026,76
+watch_year,ALL_TIME,266
+watch_year,2026,79
 watch_year,2025,101
 watch_year,2024,82
 watch_year,2023,4
@@ -14,16 +14,17 @@ director,Mikio Naruse,5
 director,Akira Kurosawa,4
 director,David Cronenberg,4
 director,David Lynch,4
+director,Gregg Araki,4
 director,Robert Altman,4
 director,Werner Herzog,4
 director,Billy Wilder,3
 director,Claire Denis,3
 director,Éric Rohmer,3
 director,Francis Ford Coppola,3
-director,Gregg Araki,3
 director,Ingmar Bergman,3
 director,Jacques Demy,3
 director,Jean Cocteau,3
+director,Jean Renoir,3
 director,King Hu,3
 director,Marcel Carné,3
 director,Nobuhiko Obayashi,3
@@ -34,7 +35,6 @@ director,Carl Theodor Dreyer,2
 director,Dario Argento,2
 director,Emeric Pressburger,2
 director,Fritz Lang,2
-director,Jean Renoir,2
 director,Jean-Luc Godard,2
 director,John Waters,2
 director,Juraj Herz,2
@@ -76,6 +76,7 @@ director,David Mirkin,1
 director,Dev Patel,1
 director,Donna Deitch,1
 director,Doug Liman,1
+director,Edgar G. Ulmer,1
 director,Edward Yang,1
 director,Elaine May,1
 director,Ester Krumbachová,1
@@ -150,6 +151,7 @@ director,Rachel Szor,1
 director,Rick Sloane,1
 director,Rob Cohen,1
 director,Rob Reiner,1
+director,Robert Siodmak,1
 director,Rose Glass,1
 director,Rupert Julian,1
 director,Sam Wood,1
@@ -172,12 +174,12 @@ director,Wei Shujun,1
 director,Yorgos Lanthimos,1
 director,Yurii Illienko,1
 director,Yuval Abraham,1
-language,en,110
-language,fr,39
+language,en,111
+language,fr,40
 language,ja,23
 language,fa,13
 language,zh,12
-language,de,10
+language,de,11
 language,es,8
 language,it,8
 language,bn,7
@@ -224,8 +226,8 @@ companion,Rohin,1
 companion,Vanshita,1
 location,Home,80
 location,600 Park Pl,75
-location,Metrograph,44
-location,BAM,19
+location,Metrograph,46
+location,BAM,20
 location,Film Forum,14
 location,Lee and Isabel's Apartment,8
 location,Flight to Abu Dabhi,3
@@ -247,8 +249,8 @@ release_decade,1960s,36
 release_decade,1970s,36
 release_decade,1950s,26
 release_decade,2000s,24
-release_decade,2020s,23
-release_decade,1940s,12
-release_decade,1930s,9
+release_decade,2020s,24
+release_decade,1940s,13
+release_decade,1930s,10
 release_decade,2010s,7
 release_decade,1920s,4
