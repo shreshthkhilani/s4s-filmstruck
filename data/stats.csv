@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,266
-watch_year,2026,79
+watch_year,ALL_TIME,268
+watch_year,2026,81
 watch_year,2025,101
 watch_year,2024,82
 watch_year,2023,4
@@ -76,6 +76,7 @@ director,David Mirkin,1
 director,Dev Patel,1
 director,Donna Deitch,1
 director,Doug Liman,1
+director,Eckhart Schmidt,1
 director,Edgar G. Ulmer,1
 director,Edward Yang,1
 director,Elaine May,1
@@ -103,6 +104,7 @@ director,Ishirō Honda,1
 director,Jackie Chan,1
 director,Jacques Tati,1
 director,James Bidgood,1
+director,Jane Schoenbrun,1
 director,Jay Roach,1
 director,Jean-Pierre Jeunet,1
 director,Jean-Pierre Melville,1
@@ -174,12 +176,12 @@ director,Wei Shujun,1
 director,Yorgos Lanthimos,1
 director,Yurii Illienko,1
 director,Yuval Abraham,1
-language,en,111
+language,en,112
 language,fr,40
 language,ja,23
 language,fa,13
+language,de,12
 language,zh,12
-language,de,11
 language,es,8
 language,it,8
 language,bn,7
@@ -226,8 +228,8 @@ companion,Rohin,1
 companion,Vanshita,1
 location,Home,80
 location,600 Park Pl,75
-location,Metrograph,46
-location,BAM,20
+location,Metrograph,47
+location,BAM,21
 location,Film Forum,14
 location,Lee and Isabel's Apartment,8
 location,Flight to Abu Dabhi,3
@@ -243,13 +245,13 @@ location,Flight to London,1
 location,Philadelphia Airbnb,1
 location,Prince Charles Cinema,1
 location,The Beverley Las Vegas,1
-release_decade,1980s,44
+release_decade,1980s,45
 release_decade,1990s,42
 release_decade,1960s,36
 release_decade,1970s,36
 release_decade,1950s,26
+release_decade,2020s,25
 release_decade,2000s,24
-release_decade,2020s,24
 release_decade,1940s,13
 release_decade,1930s,10
 release_decade,2010s,7
