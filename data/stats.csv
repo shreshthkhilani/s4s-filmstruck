@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,268
-watch_year,2026,81
+watch_year,ALL_TIME,269
+watch_year,2026,82
 watch_year,2025,101
 watch_year,2024,82
 watch_year,2023,4
@@ -76,6 +76,7 @@ director,David Mirkin,1
 director,Dev Patel,1
 director,Donna Deitch,1
 director,Doug Liman,1
+director,Douglas Sirk,1
 director,Eckhart Schmidt,1
 director,Edgar G. Ulmer,1
 director,Edward Yang,1
@@ -176,7 +177,7 @@ director,Wei Shujun,1
 director,Yorgos Lanthimos,1
 director,Yurii Illienko,1
 director,Yuval Abraham,1
-language,en,112
+language,en,113
 language,fr,40
 language,ja,23
 language,fa,13
@@ -226,7 +227,7 @@ companion,Jocelyn,1
 companion,Meg,1
 companion,Rohin,1
 companion,Vanshita,1
-location,Home,80
+location,Home,81
 location,600 Park Pl,75
 location,Metrograph,47
 location,BAM,21
@@ -252,7 +253,7 @@ release_decade,1970s,36
 release_decade,1950s,26
 release_decade,2020s,25
 release_decade,2000s,24
-release_decade,1940s,13
+release_decade,1940s,14
 release_decade,1930s,10
 release_decade,2010s,7
 release_decade,1920s,4
