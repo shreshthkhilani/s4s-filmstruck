@@ -1,12 +1,12 @@
 stat,key,value
-watch_year,ALL_TIME,270
-watch_year,2026,83
+watch_year,ALL_TIME,271
+watch_year,2026,84
 watch_year,2025,101
 watch_year,2024,82
 watch_year,2023,4
 director,Agnès Varda,9
+director,Alfred Hitchcock,8
 director,Jafar Panahi,8
-director,Alfred Hitchcock,7
 director,Pedro Almodóvar,7
 director,Satyajit Ray,7
 director,Abbas Kiarostami,5
@@ -177,7 +177,7 @@ director,Wei Shujun,1
 director,Yorgos Lanthimos,1
 director,Yurii Illienko,1
 director,Yuval Abraham,1
-language,en,114
+language,en,115
 language,fr,40
 language,ja,23
 language,fa,13
@@ -227,7 +227,7 @@ companion,Jocelyn,1
 companion,Meg,1
 companion,Rohin,1
 companion,Vanshita,1
-location,Home,82
+location,Home,83
 location,600 Park Pl,75
 location,Metrograph,47
 location,BAM,21
@@ -250,7 +250,7 @@ release_decade,1980s,45
 release_decade,1990s,42
 release_decade,1960s,36
 release_decade,1970s,36
-release_decade,1950s,27
+release_decade,1950s,28
 release_decade,2020s,25
 release_decade,2000s,24
 release_decade,1940s,14
