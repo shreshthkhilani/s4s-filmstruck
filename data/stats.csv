@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,271
-watch_year,2026,84
+watch_year,ALL_TIME,272
+watch_year,2026,85
 watch_year,2025,101
 watch_year,2024,82
 watch_year,2023,4
@@ -33,6 +33,7 @@ director,Barry Sonnenfeld,2
 director,Bong Joon Ho,2
 director,Carl Theodor Dreyer,2
 director,Dario Argento,2
+director,Edward Yang,2
 director,Emeric Pressburger,2
 director,Fritz Lang,2
 director,Jean-Luc Godard,2
@@ -79,7 +80,6 @@ director,Doug Liman,1
 director,Douglas Sirk,1
 director,Eckhart Schmidt,1
 director,Edgar G. Ulmer,1
-director,Edward Yang,1
 director,Elaine May,1
 director,Ester Krumbachová,1
 director,F. W. Murnau,1
@@ -181,8 +181,8 @@ language,en,115
 language,fr,40
 language,ja,23
 language,fa,13
+language,zh,13
 language,de,12
-language,zh,12
 language,es,8
 language,it,8
 language,bn,7
@@ -229,7 +229,7 @@ companion,Rohin,1
 companion,Vanshita,1
 location,Home,83
 location,600 Park Pl,75
-location,Metrograph,47
+location,Metrograph,48
 location,BAM,21
 location,Film Forum,14
 location,Lee and Isabel's Apartment,8
@@ -247,7 +247,7 @@ location,Philadelphia Airbnb,1
 location,Prince Charles Cinema,1
 location,The Beverley Las Vegas,1
 release_decade,1980s,45
-release_decade,1990s,42
+release_decade,1990s,43
 release_decade,1960s,36
 release_decade,1970s,36
 release_decade,1950s,28
