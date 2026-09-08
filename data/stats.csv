@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,275
-watch_year,2026,88
+watch_year,ALL_TIME,276
+watch_year,2026,89
 watch_year,2025,101
 watch_year,2024,82
 watch_year,2023,4
@@ -204,10 +204,10 @@ language,ml,1
 language,no,1
 language,uk,1
 companion,Lee,17
+companion,Eli,14
 companion,Isabel,14
-companion,Eli,13
 companion,Varnica,13
-companion,Jack,10
+companion,Jack,11
 companion,Yash,10
 companion,Berna,5
 companion,Javishth,5
@@ -238,7 +238,7 @@ location,Metrograph,48
 location,BAM,21
 location,Film Forum,14
 location,Lee and Isabel's Apartment,8
-location,Arverne Cinema,3
+location,Arverne Cinema,4
 location,Flight to Abu Dabhi,3
 location,Hotel in Las Vegas,3
 location,Nitehawk,3
