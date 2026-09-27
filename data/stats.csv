@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,276
-watch_year,2026,89
+watch_year,ALL_TIME,277
+watch_year,2026,90
 watch_year,2025,101
 watch_year,2024,82
 watch_year,2023,4
@@ -115,6 +115,7 @@ director,Jim Jarmusch,1
 director,Joachim Trier,1
 director,Joan Micklin Silver,1
 director,John Carpenter,1
+director,John Wilson,1
 director,Jon Turteltaub,1
 director,José Antônio Garcia,1
 director,Joseph H. Lewis,1
@@ -182,7 +183,7 @@ director,Wei Shujun,1
 director,Yorgos Lanthimos,1
 director,Yurii Illienko,1
 director,Yuval Abraham,1
-language,en,117
+language,en,118
 language,fr,41
 language,ja,23
 language,fa,13
@@ -235,7 +236,7 @@ companion,Vanshita,1
 location,Home,83
 location,600 Park Pl,75
 location,Metrograph,48
-location,BAM,21
+location,BAM,22
 location,Film Forum,14
 location,Lee and Isabel's Apartment,8
 location,Arverne Cinema,4
@@ -256,8 +257,8 @@ release_decade,1980s,45
 release_decade,1990s,43
 release_decade,1960s,36
 release_decade,1970s,36
+release_decade,2020s,29
 release_decade,1950s,28
-release_decade,2020s,28
 release_decade,2000s,24
 release_decade,1940s,14
 release_decade,1930s,10
