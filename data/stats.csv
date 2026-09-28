@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,277
-watch_year,2026,90
+watch_year,ALL_TIME,278
+watch_year,2026,91
 watch_year,2025,101
 watch_year,2024,82
 watch_year,2023,4
@@ -103,6 +103,7 @@ director,Hong Sang-soo,1
 director,Hou Hsiao-hsien,1
 director,Ícaro Martins,1
 director,Ishirō Honda,1
+director,Jack Auen,1
 director,Jackie Chan,1
 director,Jacques Tati,1
 director,James Bidgood,1
@@ -127,6 +128,7 @@ director,Karan Tejpal,1
 director,Kathleen Collins,1
 director,Kathryn Bigelow,1
 director,Ken Russell,1
+director,Kevin Walker,1
 director,Kleber Mendonça Filho,1
 director,Lana Wachowski,1
 director,Larisa Shepitko,1
@@ -183,7 +185,7 @@ director,Wei Shujun,1
 director,Yorgos Lanthimos,1
 director,Yurii Illienko,1
 director,Yuval Abraham,1
-language,en,118
+language,en,119
 language,fr,41
 language,ja,23
 language,fa,13
@@ -236,7 +238,7 @@ companion,Vanshita,1
 location,Home,83
 location,600 Park Pl,75
 location,Metrograph,48
-location,BAM,22
+location,BAM,23
 location,Film Forum,14
 location,Lee and Isabel's Apartment,8
 location,Arverne Cinema,4
@@ -257,7 +259,7 @@ release_decade,1980s,45
 release_decade,1990s,43
 release_decade,1960s,36
 release_decade,1970s,36
-release_decade,2020s,29
+release_decade,2020s,30
 release_decade,1950s,28
 release_decade,2000s,24
 release_decade,1940s,14
