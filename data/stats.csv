@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,278
-watch_year,2026,91
+watch_year,ALL_TIME,279
+watch_year,2026,92
 watch_year,2025,101
 watch_year,2024,82
 watch_year,2023,4
@@ -131,6 +131,7 @@ director,Ken Russell,1
 director,Kevin Walker,1
 director,Kleber Mendonça Filho,1
 director,Lana Wachowski,1
+director,Lance Oppenheim,1
 director,Larisa Shepitko,1
 director,Lawrence Ah Mon,1
 director,Leos Carax,1
@@ -185,7 +186,7 @@ director,Wei Shujun,1
 director,Yorgos Lanthimos,1
 director,Yurii Illienko,1
 director,Yuval Abraham,1
-language,en,119
+language,en,120
 language,fr,41
 language,ja,23
 language,fa,13
@@ -238,7 +239,7 @@ companion,Vanshita,1
 location,Home,83
 location,600 Park Pl,75
 location,Metrograph,48
-location,BAM,23
+location,BAM,24
 location,Film Forum,14
 location,Lee and Isabel's Apartment,8
 location,Arverne Cinema,4
@@ -259,7 +260,7 @@ release_decade,1980s,45
 release_decade,1990s,43
 release_decade,1960s,36
 release_decade,1970s,36
-release_decade,2020s,30
+release_decade,2020s,31
 release_decade,1950s,28
 release_decade,2000s,24
 release_decade,1940s,14
