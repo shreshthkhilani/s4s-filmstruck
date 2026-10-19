@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,281
-watch_year,2026,94
+watch_year,ALL_TIME,282
+watch_year,2026,95
 watch_year,2025,101
 watch_year,2024,82
 watch_year,2023,4
@@ -10,9 +10,9 @@ director,Jafar Panahi,8
 director,Pedro Almodóvar,7
 director,Satyajit Ray,7
 director,Abbas Kiarostami,5
+director,Dario Argento,5
 director,Mikio Naruse,5
 director,Akira Kurosawa,4
-director,Dario Argento,4
 director,David Cronenberg,4
 director,David Lynch,4
 director,Gregg Araki,4
@@ -192,7 +192,7 @@ language,ja,23
 language,fa,13
 language,zh,13
 language,de,12
-language,it,10
+language,it,11
 language,es,8
 language,bn,7
 language,cn,6
@@ -236,7 +236,7 @@ companion,Jocelyn,1
 companion,Meg,1
 companion,Rohin,1
 companion,Vanshita,1
-location,Home,85
+location,Home,86
 location,600 Park Pl,75
 location,Metrograph,48
 location,BAM,24
@@ -257,7 +257,7 @@ location,Philadelphia Airbnb,1
 location,Prince Charles Cinema,1
 location,The Beverley Las Vegas,1
 release_decade,1980s,47
-release_decade,1990s,43
+release_decade,1990s,44
 release_decade,1960s,36
 release_decade,1970s,36
 release_decade,2020s,31
