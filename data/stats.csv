@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,282
-watch_year,2026,95
+watch_year,ALL_TIME,283
+watch_year,2026,96
 watch_year,2025,101
 watch_year,2024,82
 watch_year,2023,4
@@ -9,8 +9,8 @@ director,Alfred Hitchcock,8
 director,Jafar Panahi,8
 director,Pedro Almodóvar,7
 director,Satyajit Ray,7
+director,Dario Argento,6
 director,Abbas Kiarostami,5
-director,Dario Argento,5
 director,Mikio Naruse,5
 director,Akira Kurosawa,4
 director,David Cronenberg,4
@@ -192,7 +192,7 @@ language,ja,23
 language,fa,13
 language,zh,13
 language,de,12
-language,it,11
+language,it,12
 language,es,8
 language,bn,7
 language,cn,6
@@ -236,7 +236,7 @@ companion,Jocelyn,1
 companion,Meg,1
 companion,Rohin,1
 companion,Vanshita,1
-location,Home,86
+location,Home,87
 location,600 Park Pl,75
 location,Metrograph,48
 location,BAM,24
@@ -258,8 +258,8 @@ location,Prince Charles Cinema,1
 location,The Beverley Las Vegas,1
 release_decade,1980s,47
 release_decade,1990s,44
+release_decade,1970s,37
 release_decade,1960s,36
-release_decade,1970s,36
 release_decade,2020s,31
 release_decade,1950s,28
 release_decade,2000s,24
