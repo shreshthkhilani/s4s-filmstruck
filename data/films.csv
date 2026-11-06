@@ -7,6 +7,7 @@ tmdbId,title,director,releaseYear,language,posterPath
 223,Rebecca,Alfred Hitchcock,1940,en,/3Gla0nxHboX3nxQzaU4SoqOtTjh.jpg
 239,Some Like It Hot,Billy Wilder,1959,en,/uRomZf1LmLtX4ZiL3B7lZEFNMAn.jpg
 260,The 39 Steps,Alfred Hitchcock,1935,en,/oC81jK6aAug4MA0xzYVngHmjsZS.jpg
+284,The Apartment,Billy Wilder,1960,en,/hhSRt1KKfRT0yEhEtRW3qp31JFU.jpg
 294,Desert Hearts,Donna Deitch,1985,en,/klAHoWOZgL8sR74Tnl7K7z4Lziq.jpg
 345,Eyes Wide Shut,Stanley Kubrick,1999,en,/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg
 347,People on Sunday,"Edgar G. Ulmer,Robert Siodmak",1930,de,/gWIkCmYaRDlA78WMIfRUlURuLCZ.jpg
@@ -33,6 +34,7 @@ tmdbId,title,director,releaseYear,language,posterPath
 779,Vampyr,Carl Theodor Dreyer,1932,de,/m7BKgeW06cgW5512wukfGhLsWGL.jpg
 793,Blue Velvet,David Lynch,1986,en,/tzXuURjPzCqtA6eL0Cswq9wzFx0.jpg
 797,Persona,Ingmar Bergman,1966,sv,/v2KsLNChpT6vLf0YFhkJmAtGkNq.jpg
+805,Rosemary's Baby,Roman Polanski,1968,en,/uYgvlHceRFjAFbsNeMInYcLZLUb.jpg
 816,Austin Powers: International Man of Mystery,Jay Roach,1997,en,/5uD4dxNX8JKFjWKYMHyOsqhi5pN.jpg
 832,M,Fritz Lang,1931,de,/bTdZk3q2DWpBRnLiaaItKFWOVhI.jpg
 837,Videodrome,David Cronenberg,1983,en,/dBqp1SxlqnJEHYDM9sNelXoQsO1.jpg
@@ -101,6 +103,7 @@ tmdbId,title,director,releaseYear,language,posterPath
 11698,Stroszek,Werner Herzog,1977,de,/wDq9ytRxoVpICRcx1BvagmXhd4t.jpg
 11700,Smiles of a Summer Night,Ingmar Bergman,1955,sv,/wKeV8lKz8k9DDBCw6MJ9MkhvhqF.jpg
 11878,Yojimbo,Akira Kurosawa,1961,ja,/tN7kYPjRhDolpui9sc9Eq9n5b2O.jpg
+11906,Suspiria,Dario Argento,1977,it,/5ya8jTbNZTrCFUx9OwpNBjCivXY.jpg
 11985,Vive L'Amour,Tsai Ming-liang,1995,zh,/i60TuLXoZQaU9dJlClWf5kNdoKE.jpg
 12493,High and Low,Akira Kurosawa,1963,ja,/tgNjemQPG96uIezpiUiXFcer5ga.jpg
 13398,Tokyo Godfathers,Satoshi Kon,2003,ja,/sPC66btzQlzuRdPKiSDYZ5Hvxgc.jpg
@@ -143,11 +146,12 @@ tmdbId,title,director,releaseYear,language,posterPath
 30017,Close-Up,Abbas Kiarostami,1990,fa,/m9HG2N9ZKCmNN9qOHJTNyy18wn3.jpg
 30020,Taste of Cherry,Abbas Kiarostami,1997,fa,/vgPwjgbSdbYWrS1ty8TIZtmi6Tn.jpg
 30308,Lured,Douglas Sirk,1947,en,/3nBt4ljVJGSynBEHI9xgD0GS6pe.jpg
+30497,The Texas Chain Saw Massacre,Tobe Hooper,1974,en,/mpgkRPH1GNkMCgdPk2OMyHzAks7.jpg
 30959,Kwaidan,Masaki Kobayashi,1965,ja,/vmYhFcA2YC15hoL44hQziba75Ij.jpg
 31058,Bitter Rice,Giuseppe De Santis,1949,it,/9vvbZgbkfE7urqQXRNiONmvYTtF.jpg
 31417,Eyes Without a Face,Georges Franju,1960,fr,/8y7Z9Gvcq52uOlJlUWyn2epGGRd.jpg
 31522,A Woman Is a Woman,Jean-Luc Godard,1961,fr,/xrZu21hriGJQY3qY8nifh2smVHu.jpg
-31767,The Devils,Ken Russell,1971,en,/y1k7eiOFc6fzm8XeTa1kNGx6JIs.jpg
+31767,The Devils,Ken Russell,1971,en,/3u3jsP5yMDJW3SXYteqkQjI6ggq.jpg
 33247,The Living End,Gregg Araki,1992,en,/A5sVzb9PynBgXzr0cahDguzC3Zc.jpg
 33560,Totally F***ed Up,Gregg Araki,1994,en,/nWC3bUnQEMU5DDDNxpG4VYMuu6B.jpg
 34574,Nadja,Michael Almereyda,1995,en,/x5svJ0haKYI6VXdJ01q9IYHFz8X.jpg

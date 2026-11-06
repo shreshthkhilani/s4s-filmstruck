@@ -1,24 +1,24 @@
 stat,key,value
-watch_year,ALL_TIME,283
-watch_year,2026,96
+watch_year,ALL_TIME,288
+watch_year,2026,101
 watch_year,2025,101
 watch_year,2024,82
 watch_year,2023,4
 director,Agnès Varda,9
 director,Alfred Hitchcock,8
 director,Jafar Panahi,8
+director,Dario Argento,7
 director,Pedro Almodóvar,7
 director,Satyajit Ray,7
-director,Dario Argento,6
 director,Abbas Kiarostami,5
 director,Mikio Naruse,5
 director,Akira Kurosawa,4
+director,Billy Wilder,4
 director,David Cronenberg,4
 director,David Lynch,4
 director,Gregg Araki,4
 director,Robert Altman,4
 director,Werner Herzog,4
-director,Billy Wilder,3
 director,Claire Denis,3
 director,Éric Rohmer,3
 director,Francis Ford Coppola,3
@@ -39,6 +39,7 @@ director,Fritz Lang,2
 director,Jean-Luc Godard,2
 director,John Waters,2
 director,Juraj Herz,2
+director,Ken Russell,2
 director,Mario Bava,2
 director,Masahiro Shinoda,2
 director,Michael Powell,2
@@ -127,7 +128,6 @@ director,Kaneto Shindō,1
 director,Karan Tejpal,1
 director,Kathleen Collins,1
 director,Kathryn Bigelow,1
-director,Ken Russell,1
 director,Kevin Walker,1
 director,Kleber Mendonça Filho,1
 director,Lana Wachowski,1
@@ -164,6 +164,7 @@ director,Rick Sloane,1
 director,Rob Cohen,1
 director,Rob Reiner,1
 director,Robert Siodmak,1
+director,Roman Polanski,1
 director,Rose Glass,1
 director,Rupert Julian,1
 director,Sam Wood,1
@@ -181,18 +182,19 @@ director,Stanley Kwan Kam-Pang,1
 director,Susan Seidelman,1
 director,Terrence Malick,1
 director,Tim Burton,1
+director,Tobe Hooper,1
 director,Vishal Bhardwaj,1
 director,Wei Shujun,1
 director,Yorgos Lanthimos,1
 director,Yurii Illienko,1
 director,Yuval Abraham,1
-language,en,120
+language,en,124
 language,fr,41
 language,ja,23
 language,fa,13
+language,it,13
 language,zh,13
 language,de,12
-language,it,12
 language,es,8
 language,bn,7
 language,cn,6
@@ -210,7 +212,7 @@ language,uk,1
 companion,Lee,17
 companion,Eli,14
 companion,Isabel,14
-companion,Varnica,13
+companion,Varnica,14
 companion,Jack,11
 companion,Yash,10
 companion,Berna,5
@@ -219,27 +221,28 @@ companion,Ted,5
 companion,Kunal,4
 companion,Gabriel,3
 companion,Gavi,3
+companion,Geneva,3
 companion,Lila,3
 companion,Akhil,2
 companion,Becca,2
 companion,Clio,2
 companion,Diane,2
-companion,Geneva,2
 companion,Hannah,2
 companion,Sanjay,2
 companion,Sunita,2
 companion,Tanya,2
 companion,Warren,2
 companion,Aditya,1
+companion,Adrian,1
 companion,August,1
 companion,Jocelyn,1
 companion,Meg,1
 companion,Rohin,1
 companion,Vanshita,1
-location,Home,87
+location,Home,89
 location,600 Park Pl,75
-location,Metrograph,48
-location,BAM,24
+location,Metrograph,49
+location,BAM,26
 location,Film Forum,14
 location,Lee and Isabel's Apartment,8
 location,Arverne Cinema,4
@@ -258,8 +261,8 @@ location,Prince Charles Cinema,1
 location,The Beverley Las Vegas,1
 release_decade,1980s,47
 release_decade,1990s,44
-release_decade,1970s,37
-release_decade,1960s,36
+release_decade,1970s,40
+release_decade,1960s,38
 release_decade,2020s,31
 release_decade,1950s,28
 release_decade,2000s,24
