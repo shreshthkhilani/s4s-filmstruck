@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,288
-watch_year,2026,101
+watch_year,ALL_TIME,290
+watch_year,2026,103
 watch_year,2025,101
 watch_year,2024,82
 watch_year,2023,4
@@ -28,12 +28,14 @@ director,Jean Cocteau,3
 director,Jean Renoir,3
 director,King Hu,3
 director,Marcel Carné,3
+director,Mira Nair,3
 director,Nobuhiko Obayashi,3
 director,Tsai Ming-liang,3
 director,Barry Sonnenfeld,2
 director,Bong Joon Ho,2
 director,Carl Theodor Dreyer,2
 director,Edward Yang,2
+director,Elaine May,2
 director,Emeric Pressburger,2
 director,Fritz Lang,2
 director,Jean-Luc Godard,2
@@ -44,7 +46,6 @@ director,Mario Bava,2
 director,Masahiro Shinoda,2
 director,Michael Powell,2
 director,Michelangelo Antonioni,2
-director,Mira Nair,2
 director,Paul Schrader,2
 director,Rainer Werner Fassbinder,2
 director,Satoshi Kon,2
@@ -81,7 +82,6 @@ director,Doug Liman,1
 director,Douglas Sirk,1
 director,Eckhart Schmidt,1
 director,Edgar G. Ulmer,1
-director,Elaine May,1
 director,Eloïse Le Gallo,1
 director,Ester Krumbachová,1
 director,F. W. Murnau,1
@@ -188,7 +188,7 @@ director,Wei Shujun,1
 director,Yorgos Lanthimos,1
 director,Yurii Illienko,1
 director,Yuval Abraham,1
-language,en,124
+language,en,125
 language,fr,41
 language,ja,23
 language,fa,13
@@ -198,8 +198,8 @@ language,de,12
 language,es,8
 language,bn,7
 language,cn,6
+language,hi,6
 language,cs,5
-language,hi,5
 language,sv,4
 language,ar,3
 language,ko,2
@@ -210,10 +210,10 @@ language,ml,1
 language,no,1
 language,uk,1
 companion,Lee,17
-companion,Eli,14
+companion,Eli,15
 companion,Isabel,14
 companion,Varnica,14
-companion,Jack,11
+companion,Jack,12
 companion,Yash,10
 companion,Berna,5
 companion,Javishth,5
@@ -239,10 +239,10 @@ companion,Jocelyn,1
 companion,Meg,1
 companion,Rohin,1
 companion,Vanshita,1
-location,Home,89
+location,Home,90
 location,600 Park Pl,75
 location,Metrograph,49
-location,BAM,26
+location,BAM,27
 location,Film Forum,14
 location,Lee and Isabel's Apartment,8
 location,Arverne Cinema,4
@@ -259,9 +259,9 @@ location,Flight to London,1
 location,Philadelphia Airbnb,1
 location,Prince Charles Cinema,1
 location,The Beverley Las Vegas,1
-release_decade,1980s,47
+release_decade,1980s,48
 release_decade,1990s,44
-release_decade,1970s,40
+release_decade,1970s,41
 release_decade,1960s,38
 release_decade,2020s,31
 release_decade,1950s,28
